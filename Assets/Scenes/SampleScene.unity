@@ -2142,7 +2142,7 @@ MonoBehaviour:
   handbrakeTorque: 2500
   maxSpeed: 50
   steeringRange: 40
-  steeringRangeAtMaxSpeed: 10
+  steeringRangeAtMaxSpeed: 30
   centreOfGravityOffset: -0.3
   driftFrictionFactor: 0.2
   driftSteerMultiplier: 1.5
